@@ -1,0 +1,12 @@
+services:
+  heart-disease-app:
+    build: .
+    container_name: heart-disease-predictor
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
+
+
+
+
+    
