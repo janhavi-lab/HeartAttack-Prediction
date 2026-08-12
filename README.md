@@ -9,7 +9,7 @@ The final model was selected after comparing Logistic Regression, Decision Tree,
 ## 🚀 Live Application
 
 🔗 **Streamlit App:**  
-Add your deployed Streamlit URL here
+http://localhost:8501/
 
 ---
 
