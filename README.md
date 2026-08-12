@@ -1,5 +1,7 @@
 # ❤️ Heart Disease Prediction System
 
+[![Docker CI/CD](https://github.com/janhavi-lab/HeartAttack-Prediction/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/janhavi-lab/HeartAttack-Prediction/actions/workflows/docker-publish.yml)
+
 A machine-learning-based web application that predicts heart disease risk from clinical patient data. The system uses a tuned Random Forest classifier and provides both single-patient and bulk CSV prediction capabilities through an interactive Streamlit interface.
 
 The final model was selected after comparing Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine models, followed by hyperparameter tuning and threshold optimization.
